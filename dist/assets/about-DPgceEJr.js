@@ -1,1 +1,0 @@
-import{_ as t,o as s,c,w as r,a,r as n}from"./index-BJazP4aq.js";const _={};function l(d,e){const o=n("el-card");return s(),c(o,{class:"view-card"},{default:r(()=>[...e[0]||(e[0]=[a("h2",null,"关于 · App2",-1),a("p",null,"这是 wujie 2 加载的 Vue3（Vite 6）子应用。",-1)])]),_:1})}const u=t(_,[["render",l],["__scopeId","data-v-32bd25e6"]]);export{u as default};

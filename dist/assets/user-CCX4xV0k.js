@@ -1,1 +1,0 @@
-import{_ as s,o,c as r,w as c,a as e,b as n,r as l}from"./index-BJazP4aq.js";const _={};function d(p,a){const t=l("el-card");return o(),r(t,{class:"view-card"},{default:c(()=>[...a[0]||(a[0]=[e("h2",null,"用户 · App2",-1),e("p",null,[n("用户名："),e("b",null,"vite-guest")],-1)])]),_:1})}const f=s(_,[["render",d],["__scopeId","data-v-2a60a723"]]);export{f as default};
